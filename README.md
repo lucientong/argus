@@ -3,7 +3,8 @@
 [![CI](https://github.com/lucientong/argus/actions/workflows/ci.yml/badge.svg)](https://github.com/lucientong/argus/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/lucientong/argus/branch/main/graph/badge.svg?token=CODECOV_TOKEN)](https://codecov.io/gh/lucientong/argus)
 [![Docker](https://img.shields.io/docker/v/lucientong/argus/latest?logo=docker&label=Docker%20Hub)](https://hub.docker.com/r/lucientong/argus)
-[![Go Version](https://img.shields.io/badge/go-1.23-blue.svg)](https://golang.org)
+[![Go Version](https://img.shields.io/badge/go-1.26-blue.svg)](https://golang.org)
+[![Go Report Card](https://goreportcard.com/badge/github.com/lucientong/argus)](https://goreportcard.com/report/github.com/lucientong/argus)
 [![License](https://img.shields.io/github/license/lucientong/argus)](LICENSE)
 
 > **AI-driven incident response.** Argus ingests alerts, diagnoses root causes, plans and executes remediations, verifies recovery — and keeps a human in the loop at every dangerous step.
