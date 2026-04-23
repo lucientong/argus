@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.1] - 2026-04-21
+
 ### Added
 - Initial planning documents: `PLAN.md` (15-phase implementation plan), `progress.md` (live tracker), and this `CHANGELOG.md`.
 - `README.md` with project overview, architecture summary, and links to planning docs.
